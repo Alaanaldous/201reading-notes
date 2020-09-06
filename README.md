@@ -8,7 +8,7 @@
 ### Content:
 | Subject | Date |
 |---------|------|
-| Introductory HTML and JavaScript | Sep 5 |
+| [Introductory HTML and JavaScript](https://alaanaldous.github.io/201reading-notes/read01) | Sep 5 |
 | HTML text, CSS Intro, & Basic JavaScript Instructions | Sep 7 |
 | HTML lists, CSS Boxes, JS Control Flow | Sep 8 |
 | HTML Links, CSS Layout, JS Functions | Sep 9 |

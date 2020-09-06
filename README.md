@@ -5,21 +5,20 @@
 ## The primary goal of this website is to learn software development:
 *HTML , CSS , JavaScript*
 
-### Content:
-| Subject | Date |
-|---------|------|
-| [Introductory HTML and JavaScript](https://alaanaldous.github.io/201reading-notes/read01) | Sep 5 |
-| HTML text, CSS Intro, & Basic JavaScript Instructions | Sep 7 |
-| HTML lists, CSS Boxes, JS Control Flow | Sep 8 |
-| HTML Links, CSS Layout, JS Functions | Sep 9 |
-| HTML Images, CSS Color & Text | Sep 10 |
-| JS Object Literals, The DOM | Sep 13 |
-| HTML Tables; JS Constructor Functions | Sep 14 |
-| More CSS Layout | Sep 15 |
-| Forms and Events | Sep 16 |
-| JS Debugging | Sep 17 |
-| Assorted Topics | Sep 20 |
-| Docs for the HTML <canvas> Element & Chart.js | Sep 21 |
-| Local Storage | Sep 22 |
-| CSS Transforms, Transitions, and Animations | Sep 23 | 
-| What Google Learned About Teams | Sep 23 |
+### Table of Content:
+
+* [Introductory HTML and JavaScript](https://alaanaldous.github.io/201reading-notes/read01) on Sep 5 .
+* [HTML text, CSS Intro, & Basic JavaScript Instructions](https://alaanaldous.github.io/201reading-notes/class-02) on Sep 7.
+* HTML lists, CSS Boxes, JS Control Flow on Sep 8. 
+* HTML Links, CSS Layout, JS Functions on Sep 9. 
+* HTML Images, CSS Color & Text  on Sep 10. 
+* JS Object Literals, The DOM on Sep 13. 
+* HTML Tables; JS Constructor Functions on Sep 14. 
+* More CSS Layout  on Sep 15. 
+* Forms and Events  on Sep 16. 
+* JS Debugging  on Sep 17. 
+* Assorted Topics  on Sep 20. 
+* Docs for the HTML \<canvas> Element & Chart.js on Sep 21. 
+* Local Storage  Sep 22 
+* CSS Transforms, Transitions, and Animations on Sep 23.  
+* What Google Learned About Teams on Sep 23. 

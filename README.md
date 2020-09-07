@@ -9,7 +9,7 @@
 
 * [Introductory HTML and JavaScript](https://alaanaldous.github.io/201reading-notes/read01) on Sep 5 .
 * [HTML text, CSS Intro, & Basic JavaScript Instructions](https://alaanaldous.github.io/201reading-notes/class-02) on Sep 7.
-* HTML lists, CSS Boxes, JS Control Flow on Sep 8. 
+* [HTML lists, CSS Boxes, JS Control Flow](https://alaanaldous.github.io/201reading-notes/read03/read-03) on Sep 8. 
 * HTML Links, CSS Layout, JS Functions on Sep 9. 
 * HTML Images, CSS Color & Text  on Sep 10. 
 * JS Object Literals, The DOM on Sep 13. 

@@ -14,7 +14,7 @@
 * [HTML Images, CSS Color & Text](https://alaanaldous.github.io/201reading-notes/read-05/read-05)  on Sep 10. 
 * JS Object Literals, The DOM on Sep 13. 
 * HTML Tables; JS Constructor Functions on Sep 14. 
-* More CSS Layout  on Sep 15. 
+* [More CSS Layout](https://alaanaldous.github.io/201reading-notes/read-08/)  on Sep 15. 
 * Forms and Events  on Sep 16. 
 * JS Debugging  on Sep 17. 
 * Assorted Topics  on Sep 20. 

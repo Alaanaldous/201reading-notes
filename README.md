@@ -15,7 +15,7 @@
 * JS Object Literals, The DOM on Sep 13. 
 * [HTML Tables; JS Constructor Functions](https://alaanaldous.github.io/201reading-notes/read-07/) on Sep 14. 
 * [More CSS Layout](https://alaanaldous.github.io/201reading-notes/read-08/)  on Sep 15. 
-* Forms and Events  on Sep 16. 
+* [Forms and Events](https://alaanaldous.github.io/201reading-notes/read-09/)  on Sep 16. 
 * JS Debugging  on Sep 17. 
 * Assorted Topics  on Sep 20. 
 * Docs for the HTML \<canvas> Element & Chart.js on Sep 21. 

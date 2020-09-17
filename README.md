@@ -12,7 +12,7 @@
 * [HTML lists, CSS Boxes, JS Control Flow](https://alaanaldous.github.io/201reading-notes/read03/read-03) on Sep 8. 
 * [HTML Links, CSS Layout, JS Functions](https://alaanaldous.github.io/201reading-notes/read-04/read-04) on Sep 9. 
 * [HTML Images, CSS Color & Text](https://alaanaldous.github.io/201reading-notes/read-05/read-05)  on Sep 10. 
-* JS Object Literals, The DOM on Sep 13. 
+* [JS Object Literals, The DOM](https://alaanaldous.github.io/201reading-notes/read-06/) on Sep 13. 
 * [HTML Tables; JS Constructor Functions](https://alaanaldous.github.io/201reading-notes/read-07/) on Sep 14. 
 * [More CSS Layout](https://alaanaldous.github.io/201reading-notes/read-08/)  on Sep 15. 
 * [Forms and Events](https://alaanaldous.github.io/201reading-notes/read-09/)  on Sep 16. 

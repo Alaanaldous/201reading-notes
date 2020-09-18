@@ -22,3 +22,5 @@
 * Local Storage on Sep 22 
 * CSS Transforms, Transitions, and Animations on Sep 23.  
 * What Google Learned About Teams on Sep 23. 
+
+*Alaa Aldous*

@@ -21,6 +21,6 @@
 * [Docs for the HTML \<canvas> Element & Chart.js](https://alaanaldous.github.io/201reading-notes/read-12/) on Sep 21. 
 * [Local Storage](https://alaanaldous.github.io/201reading-notes/read-13/) on Sep 22 
 * [CSS Transforms, Transitions, and Animations](https://alaanaldous.github.io/201reading-notes/read-14a/) on Sep 23.  
-* What Google Learned About Teams on Sep 23. 
+* [What Google Learned About Teams](https://alaanaldous.github.io/201reading-notes/read-14b/) on Sep 23. 
 
 *Alaa Aldous*
